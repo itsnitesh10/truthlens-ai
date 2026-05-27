@@ -1,4 +1,4 @@
-# TruthLens AI 🔍
+# TruthLens AI 
 ### Multi-Modal Misinformation Forensics Platform
 **100% Free — Powered by Ollama + gemma3:4b (runs locally on CPU)**
 
